@@ -113,7 +113,12 @@ body{
     max-width: 1200px;
     margin: auto;
 }
-
+.visual-bg{
+    background-image: url("../img/Visual_Studio_Code.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 .section h2{
     font-size: 2.5rem;
     margin-bottom: 30px;
